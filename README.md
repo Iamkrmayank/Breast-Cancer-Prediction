@@ -69,5 +69,6 @@ Conclusion:
 
 We have the plot visulaisation after the development of the prediction model.
 
-![Uploading ANNBC.png…]()
 
+
+![ANNBC](https://user-images.githubusercontent.com/103871423/236562631-ca541238-775f-4a79-9057-fb0d0c6a8bb5.png)
